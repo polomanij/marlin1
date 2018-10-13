@@ -6,6 +6,7 @@
         "/course-module1/" => "functions/homepage.php",
         "/course-module1/image.view" => "functions/image.view.php",
         "/course-module1/image.php" => "image.php",
+        "/course-module1/validation" => "functions/validation.php",
     ];
     
     $route = $_SERVER["REQUEST_URI"];
